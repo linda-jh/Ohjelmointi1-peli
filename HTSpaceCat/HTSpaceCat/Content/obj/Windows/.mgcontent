@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Koulu/OHJ1/ljhovila/ht/HTSpaceCat/HTSpaceCat/Content/alien2.png</File>
+    <File>C:/Koulu/OHJ1/ljhovila/ht/HTSpaceCat/HTSpaceCat/Content/astroman.png</File>
+    <File>C:/Koulu/OHJ1/ljhovila/ht/HTSpaceCat/HTSpaceCat/Content/avaruustausta.png</File>
+    <File>C:/Koulu/OHJ1/ljhovila/ht/HTSpaceCat/HTSpaceCat/Content/hiiru.png</File>
+    <File>C:/Koulu/OHJ1/ljhovila/ht/HTSpaceCat/HTSpaceCat/Content/kissaraja.png</File>
+    <File>C:/Koulu/OHJ1/ljhovila/ht/HTSpaceCat/HTSpaceCat/Content/otsikko.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
